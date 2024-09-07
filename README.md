@@ -1,4 +1,4 @@
-# Pizza Sales Report USING POWER BI AND SQL(MySQL)
+# PIZZA SALES REPORT USING POWER BI AND SQL(MySQL)
 
 ## KPI REQUIREMENTS
 ->We need to analyze key indicators for our pizza sales data to gain insights into our business performance
